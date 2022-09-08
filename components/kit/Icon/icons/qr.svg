@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
+	<rect height="3" rx="1" width="3" x="6.5" y="22.5"/>
+	<rect height="3" rx="1" width="3" x="6.5" y="6.5"/>
+	<rect height="3" rx="1" width="3" x="22.5" y="6.5"/>
+	<rect height="5" rx="1" width="3" x="18" y="25"/>
+	<rect height="3" rx="1" width="3" x="26" y="18"/>
+	<path d="M23 21a1 1 0 001-1v-1a1 1 0 00-1-1h-4a1 1 0 00-1 1v3a1 1 0 001 1h1a1 1 0 001-1v-1zm5 2h-1a1 1 0 00-1 1v3h-2a1 1 0 00-1 1v1a1 1 0 001 1h4a1 1 0 001-1v-5a1 1 0 00-1-1zm-15-5H3a1 1 0 00-1 1v10a1 1 0 001 1h10a1 1 0 001-1V19a1 1 0 00-1-1zm-8 9v-6h6v6zm8-25H3a1 1 0 00-1 1v10a1 1 0 001 1h10a1 1 0 001-1V3a1 1 0 00-1-1zm-8 9V5h6v6zm24-9H19a1 1 0 00-1 1v10a1 1 0 001 1h10a1 1 0 001-1V3a1 1 0 00-1-1zm-8 9V5h6v6z"/>
+</svg>

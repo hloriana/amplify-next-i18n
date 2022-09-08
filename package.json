@@ -1,0 +1,187 @@
+{
+	"name": "ia-marketing-web-client",
+	"version": "2.1.8",
+	"private": true,
+	"description": "Academy marketing web frontend with integration to Storyblok.",
+	"keywords": [],
+	"author": "EF International Academy Ltd",
+	"license": "UNLICENSED",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/ILC-Technology/ia-marketing-web-client.git"
+	},
+	"bugs": {
+		"url": "https://github.com/ILC-Technology/ia-marketing-web-client/issues"
+	},
+	"engines": {
+		"node": "12.x",
+		"npm": "6.x"
+	},
+	"cacheDirectories": [
+		"node_modules/",
+		".linaria-cache/",
+		".next/cache"
+	],
+	"scripts": {
+		"start": "next start -p $PORT",
+		"dev": "next",
+		"build": "next build",
+		"export": "next export",
+		"cex": "node storyblok-export.js",
+		"cim": "node storyblok-import.js",
+		"deploy": "cross-env sls deploy",
+		"deploy:layer": "cross-env sls deploy --target=./layer",
+		"cypress:open": "cypress open",
+		"cypress:run": "cypress run",
+		"commit": "commit-wizard"
+	},
+	"dependencies": {
+		"@crossroads-loyalty-solutions/react-use-browser": "1.0.0",
+		"@hapi/joi": "^17.1.1",
+		"@ilc-technology/form-renderer": "^5.3.5",
+		"@ilc-technology/image": "^1.0.1",
+		"@types/react-html-parser": "^2.0.1",
+		"@types/uuid": "^8.3.0",
+		"@zeit/next-css": "^1.0.1",
+		"babel-plugin-import": "^1.13.3",
+		"color-convert": "^2.0.1",
+		"cross-env": "^7.0.3",
+		"dotenv": "^8.2.0",
+		"express": "^4.17.1",
+		"html-react-parser": "^1.2.4",
+		"image-focus": "^1.1.2",
+		"imagemin-svgo": "^8.0.0",
+		"linaria": "^2.1.0",
+		"lodash": "^4.17.20",
+		"loggly-jslogger": "^2.2.4",
+		"lottie-react": "^2.3.1",
+		"next": "10.0.5",
+		"next-absolute-url": "^1.2.2",
+		"next-compose-plugins": "^2.2.1",
+		"next-fonts": "^1.5.1",
+		"next-optimized-images": "^2.6.2",
+		"react": "^17.0.2",
+		"react-animate-height": "^2.0.23",
+		"react-calendly": "^4.0.1",
+		"react-cookie": "^4.0.3",
+		"react-cookie-consent": "^6.2.3",
+		"react-dom": "^17.0.2",
+		"react-gtm-module": "^2.0.11",
+		"react-html-parser": "^2.0.2",
+		"react-lazyload": "^3.1.1",
+		"react-livechat": "^1.1.1",
+		"react-media-query-hoc": "^2.1.1",
+		"react-player": "^2.8.2",
+		"react-scrollmagic": "^2.2.0",
+		"react-soft-slider": "^2.2.2",
+		"react-ssr-prepass": "npm:preact-ssr-prepass@^1.1.3",
+		"react-swipeable": "^5.5.1",
+		"react-waypoint": "^9.0.3",
+		"sitemap": "^6.3.5",
+		"storyblok-js-client": "^2.5.2",
+		"storyblok-react": "0.1.1",
+		"superagent": "^6.1.0",
+		"svg-sprite-loader": "6.0.2",
+		"tsconfig-paths-webpack-plugin": "^3.3.0",
+		"use-ssr": "^1.0.23",
+		"uuid": "^8.3.2"
+	},
+	"devDependencies": {
+		"@anvilabs/eslint-config": "^19.1.0",
+		"@anvilabs/eslint-config-react": "^17.6.0",
+		"@anvilabs/eslint-config-typescript": "^17.10.2",
+		"@commitlint/cli": "^12.0.1",
+		"@commitlint/config-conventional": "^12.0.1",
+		"@fullhuman/postcss-purgecss": "^4.0.3",
+		"@next/bundle-analyzer": "^10.0.9",
+		"@types/lodash": "^4.14.168",
+		"@types/node": "^14.14.25",
+		"@types/react": "^17.0.3",
+		"@types/react-dom": "^17.0.3",
+		"@types/react-gtm-module": "^2.0.0",
+		"@types/react-lazyload": "^3.1.0",
+		"@types/superagent": "^4.1.10",
+		"@types/svg-sprite-loader": "^3.9.2",
+		"acorn": "^8.0.5",
+		"autoprefixer": "^10.2.5",
+		"babel-plugin-macros": "^3.0.1",
+		"cssnano": "^4.1.10",
+		"cssnano-preset-advanced": "^4.0.7",
+		"cypress": "^7.4.0",
+		"cz-conventional-changelog": "^3.3.0",
+		"doiuse": "^4.2.0",
+		"eslint": "^5.16.0",
+		"fse": "^4.0.1",
+		"husky": "^5.2.0",
+		"lint-staged": "^10.5.4",
+		"postcss": "^8.2.8",
+		"postcss-import": "^12.0.1",
+		"postcss-preset-env": "^6.7.0",
+		"prettier": "^2.2.1",
+		"sb-mig": "^1.3.8",
+		"stylelint": "^13.9.0",
+		"stylelint-config-recommended": "^4.0.0",
+		"tailwindcss": "^2.0.4",
+		"tailwindcss-spinner": "^1.2.0",
+		"tailwindcss-typography": "^3.1.0",
+		"typescript": "^4.1.3"
+	},
+	"browserslist": [
+		"> 1%",
+		"last 2 versions",
+		"Firefox ESR",
+		"not dead",
+		"not operamini all"
+	],
+	"eslintConfig": {
+		"extends": [
+			"@anvilabs/eslint-config",
+			"@anvilabs/eslint-config-react",
+			"@anvilabs/eslint-config-typescript",
+			"@anvilabs/eslint-config-typescript/react"
+		],
+		"settings": {
+			"react": {
+				"version": "detect"
+			}
+		},
+		"rules": {
+			"import/order": [
+				"error",
+				{
+					"groups": [
+						[
+							"builtin",
+							"external"
+						],
+						"sibling",
+						[
+							"internal",
+							"parent",
+							"index"
+						]
+					]
+				}
+			],
+			"no-warning-comments": [
+				"warn",
+				{
+					"terms": [
+						"todo",
+						"fixme",
+						"review"
+					]
+				}
+			],
+			"no-underscore-dangle": "warn",
+			"@typescript-eslint/camelcase": "warn",
+			"@typescript-eslint/no-explicit-any": "warn",
+			"jsx-a11y/anchor-is-valid": "off"
+		}
+	},
+	"config": {
+		"commitizen": {
+			"path": "./node_modules/cz-conventional-changelog"
+		}
+	}
+}

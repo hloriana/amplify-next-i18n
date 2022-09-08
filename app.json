@@ -1,0 +1,13 @@
+{
+	"name": "EF Academy website",
+	"description": "Academy marketing web frontend with integration to Storyblok deployed on Heroky.",
+	"repository": "https://github.com/ILC-Technology/ia-marketing-web-client",
+	"buildpacks": [
+		{
+			"url": "https://github.com/debitoor/heroku-buildpack-npmrc"
+		},
+		{
+			"url": "heroku/nodejs"
+		}
+	]
+}

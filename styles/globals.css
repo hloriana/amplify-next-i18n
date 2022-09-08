@@ -1,0 +1,62 @@
+/**
+	* This where you can write global css styles.
+	*/
+
+/* Default latin */
+[lang='en'],
+html {
+	@apply font-latin;
+	@apply text-ink-black;
+	word-break: break-word;
+}
+
+/* Russian / Cyrillic */
+[lang='wwru'],
+[lang='ru'],
+[lang='kz'],
+[lang='pl-pl'] {
+	@apply font-extended;
+}
+
+/* Arabic */
+[lang='wwar'],
+[lang='ly'],
+[lang='sa'],
+[lang='ae'] {
+	@apply font-arabic;
+}
+
+/* Chinese Simplified */
+[lang='zh-cn'] {
+	@apply font-chinese;
+}
+
+/* Chinese Taiwan */
+[lang='zh-tw'] {
+	@apply font-chinese-tw;
+}
+
+/* Chinese Hong Kong */
+[lang='zh-hk'] {
+	@apply font-chinese-hk;
+}
+
+/* Japanese */
+[lang='ja-jp'] {
+	@apply font-japanese;
+}
+
+/* Korean */
+[lang='ko-kr'] {
+	@apply font-korean;
+}
+
+/* Thai */
+[lang='th-th'] {
+	@apply font-thai;
+}
+
+/* Vietnamese */
+[lang='vi-vn'] {
+	@apply font-vietnamese;
+}

@@ -1,0 +1,31 @@
+module.exports = {
+	name: 'Region',
+	slug: 'region',
+	datasource_entries: [
+		{ name: 'zw', value: 'Zimbabwe', dimension_value: '' },
+		{ name: 'zm', value: 'Zambia', dimension_value: '' },
+		{ name: 'ye', value: 'Yemen', dimension_value: '' },
+		{ name: 'eh', value: 'Western Sahara', dimension_value: '' },
+		{ name: 'wf', value: 'Wallis and Futuna', dimension_value: '' },
+		{ name: 'vi', value: 'Virgin Islands, US', dimension_value: '' },
+		{ name: 'uy', value: 'Uruguay', dimension_value: '' },
+		{ name: 'vg', value: 'Virgin Islands, British', dimension_value: '' },
+		{ name: 'vn', value: 'Vietnam', dimension_value: '' },
+		{ name: 've', value: 'Venezuela', dimension_value: '' },
+		{ name: 'vu', value: 'Vanuatu', dimension_value: '' },
+		{ name: 'uz', value: 'Uzbekistan', dimension_value: '' },
+		{ name: 'us', value: 'United States', dimension_value: '' },
+		{ name: 'gb', value: 'United Kingdom', dimension_value: '' },
+		{ name: 'ae', value: 'United Arab Emirates', dimension_value: '' },
+		{ name: 'ua', value: 'Ukraine', dimension_value: '' },
+		{ name: 'ug', value: 'Uganda', dimension_value: '' },
+		{ name: 'tv', value: 'Tuvalu', dimension_value: '' },
+		{ name: 'tc', value: 'Turks and Caicos', dimension_value: '' },
+		{ name: 'tm', value: 'Turkmenistan', dimension_value: '' },
+		{ name: 'tr', value: 'Turkey', dimension_value: '' },
+		{ name: 'tn', value: 'Tunisia', dimension_value: '' },
+		{ name: 'tt', value: 'Trinidad and Tobago', dimension_value: '' },
+		{ name: 'to', value: 'Tonga', dimension_value: '' },
+		{ name: 'tk', value: 'Tokelau', dimension_value: '' }
+	]
+};

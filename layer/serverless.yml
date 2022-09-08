@@ -1,0 +1,12 @@
+component: layer
+org: academy
+app: academy-websites-${env:NODE_ENV}
+name: marketing-web-client-${env:NODE_ENV}-layer
+
+inputs:
+  region: ap-shanghai
+  name: ${name}
+  src: ../node_modules
+  runtimes:
+    - Nodejs10.15
+    - Nodejs12.16

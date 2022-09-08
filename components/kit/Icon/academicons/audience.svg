@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 141.73 141.73">
+	<defs>
+		<style>.cls-1{fill:none;stroke:currentColor;stroke-miterlimit:10;}</style>
+	</defs>
+	<title>Academicons</title>
+	<rect class="cls-1" x="47.53" y="59.34" width="58.74" height="70.39"/>
+	<polyline class="cls-1" points="70.59 59.26 70.59 23.47 59.34 12.03"/>
+	<polyline class="cls-1" points="82.54 59.26 82.54 23.47 94.07 12.03"/>
+	<circle class="cls-1" cx="76.69" cy="6.02" r="5.64"/>
+	<line class="cls-1" x1="70.59" y1="23.47" x2="82.54" y2="23.47"/>
+	<ellipse class="cls-1" cx="65.04" cy="100.4" rx="5.37" ry="5.43"/>
+	<ellipse class="cls-1" cx="76.94" cy="100.4" rx="5.37" ry="5.43"/>
+	<ellipse class="cls-1" cx="88.85" cy="100.4" rx="5.37" ry="5.43"/>
+	<rect class="cls-1" x="59.03" y="106.34" width="11.6" height="23.45"/>
+	<rect class="cls-1" x="70.73" y="106.34" width="12.11" height="23.3"/>
+	<rect class="cls-1" x="82.82" y="106.34" width="11.78" height="23.28"/>
+	<line class="cls-1" x1="59.04" y1="129.43" x2="59.04" y2="141.74"/>
+	<line class="cls-1" x1="70.91" y1="129.43" x2="70.91" y2="141.74"/>
+	<line class="cls-1" x1="82.77" y1="129.43" x2="82.77" y2="141.74"/>
+	<line class="cls-1" x1="94.64" y1="129.43" x2="94.64" y2="141.74"/>
+</svg>

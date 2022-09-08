@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 141.73 141.73">
+	<defs>
+		<style>.cls-1{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;}</style>
+	</defs>
+	<title>Academicons</title>
+	<path class="cls-1" d="M47.58,130A23.41,23.41,0,1,0,.76,130"/>
+	<path class="cls-1" d="M94.41,130a23.42,23.42,0,1,0-46.83,0"/>
+	<path class="cls-1" d="M141.24,130a23.42,23.42,0,1,0-46.83,0"/>
+	<path class="cls-1" d="M53.24,107.53a17.76,17.76,0,0,0-35.52,0"/>
+	<path class="cls-1" d="M88.76,107.53a17.76,17.76,0,0,0-35.52,0"/>
+	<path class="cls-1" d="M124.27,107.53a17.76,17.76,0,1,0-35.51,0"/>
+	<path class="cls-1" d="M57.53,90.47a13.47,13.47,0,0,0-26.94,0"/>
+	<path class="cls-1" d="M84.47,90.47a13.47,13.47,0,0,0-26.94,0"/>
+	<path class="cls-1" d="M111.4,90.47a13.47,13.47,0,1,0-26.93,0"/>
+	<line class="cls-1" x1="53.24" y1="107.53" x2="53.24" y2="114.78"/>
+	<line class="cls-1" x1="88.76" y1="107.53" x2="88.76" y2="114.78"/>
+	<line class="cls-1" x1="57.53" y1="90.47" x2="57.53" y2="95.71"/>
+	<line class="cls-1" x1="84.47" y1="90.47" x2="84.47" y2="95.71"/>
+	<polyline class="cls-1" points="108.59 82.23 129.86 82.23 129.86 12.41 11.6 12.41 11.6 82.23 32.87 82.23"/>
+</svg>

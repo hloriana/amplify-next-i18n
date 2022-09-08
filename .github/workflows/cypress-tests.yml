@@ -1,0 +1,48 @@
+  on:
+    pull_request:
+      branches:
+        - develop
+  name: Cypress tests
+  jobs:
+    test:
+      runs-on: ubuntu-latest
+
+      strategy:
+        matrix:
+          node-version: [12.x]
+          
+      steps:
+        - uses: actions/checkout@v2
+
+        - name: Use Node.js ${{ matrix.node-version }}
+          uses: actions/setup-node@v1
+          with:
+            node-version: ${{ matrix.node-version }}
+        
+        # - name: Start App
+        #   run: |
+        #     npm run build
+        #     npm run start -p 3000
+
+        - name: Cypress run
+          uses: cypress-io/github-action@v2
+          with:
+            build: npm run build
+            start: npm run start -p 3000
+            wait-on: 'http://localhost:3000'
+            wait-on-timeout: 300
+            parallel: true
+            record: true
+          env:
+            COMMIT_INFO_MESSAGE: ${{ github.event.pull_request.title }}
+            CYPRESS_RECORD_KEY: ${{ secrets.CYPRESS_RECORD_KEY }}
+            GTM_ID_360: ${{ secrets.GTM_ID_360 }}          
+            SB_SPACE_ID: ${{ secrets.STORYBLOK_SPACE_ID }}
+            SB_PUBLIC_TOKEN: ${{ secrets.STORYBLOK_PUBLIC_TOKEN }}
+            SB_PREVIEW_TOKEN: ${{ secrets.STORYBLOK_PREVIEW_TOKEN }}
+            LIVECHAT_ID: ${{ secrets.LIVECHAT_ID }}    
+            AZURE_LOCATION: ${{ secrets.AZURE_LOCATION }}    
+            INTEGRATION_API: ${{ secrets.INTEGRATION_API }}
+            NPMRC: ${{ secrets.NPMRC }}
+            EF_GITHUB_AUTH_TOKEN: ${{ secrets.EF_GITHUB_AUTH_TOKEN }}
+            EFSET_URL: ${{ secrets.EFSET_URL }}

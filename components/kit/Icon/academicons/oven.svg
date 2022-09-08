@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 141.73 141.73">
+	<defs>
+		<style>.cls-1{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;}</style>
+	</defs>
+	<title>Academicons</title>
+	<rect class="cls-1" x="24.08" y="11.64" width="93.81" height="118.36"/>
+	<line class="cls-1" x1="24.31" y1="35.51" x2="117.71" y2="35.51"/>
+	<line class="cls-1" x1="24.55" y1="82.63" x2="117.95" y2="82.63"/>
+	<circle class="cls-1" cx="40.43" cy="23.64" r="4.59"/>
+	<circle class="cls-1" cx="60.7" cy="23.64" r="4.59"/>
+	<circle class="cls-1" cx="80.96" cy="23.64" r="4.59"/>
+	<circle class="cls-1" cx="101.23" cy="23.64" r="4.59"/>
+	<path class="cls-1" d="M60,70.61C49.53,59,69,59,60,47.44"/>
+	<path class="cls-1" d="M71.72,70.61c-10.46-11.58,9-11.58,0-23.17"/>
+	<path class="cls-1" d="M83.46,70.61C73,59,92.5,59,83.46,47.44"/>
+</svg>

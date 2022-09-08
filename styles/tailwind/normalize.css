@@ -1,0 +1,12 @@
+/**
+	* This injects Tailwind's normalize.css styles.
+	*/
+@tailwind base;
+
+/* remove the text alignment */
+button,
+[type='button'],
+[type='reset'],
+[type='submit'] {
+	text-align: unset;
+}

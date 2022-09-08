@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 141.73 141.73">
+	<defs>
+		<style>.cls-1,.cls-2{fill:none;stroke:currentColor;}.cls-1{stroke-miterlimit:10;}.cls-2{stroke-linecap:round;stroke-linejoin:round;}</style>
+	</defs>
+	<title>Academicons</title>
+	<path class="cls-1" d="M79.4,89.18a26.4,26.4,0,1,0-52.79,0,26.4,26.4,0,1,0,13.2,49.26,26.36,26.36,0,0,0,26.39,0A26.4,26.4,0,1,0,79.4,89.18Z"/>
+	<line class="cls-2" x1="70.98" y1="23.57" x2="70.98" y2="0.19"/>
+	<line class="cls-2" x1="132.28" y1="35.58" x2="112.05" y2="47.27"/>
+	<line class="cls-2" x1="106.37" y1="9.67" x2="94.56" y2="30.03"/>
+	<line class="cls-2" x1="141.77" y1="70.98" x2="118.26" y2="70.98"/>
+	<path class="cls-2" d="M50.72,58.94a23.25,23.25,0,1,1,40,23.81"/>
+</svg>

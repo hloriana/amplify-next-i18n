@@ -1,0 +1,31 @@
+module.exports = {
+	name: 'Languages Fallback',
+	slug: 'languages-fallback',
+	datasource_entries: [
+		{ name: 'cn', value: 'default', dimension_value: '' },
+		{ name: 'de', value: 'default', dimension_value: '' },
+		{ name: 'de-at', value: 'de', dimension_value: '' },
+		{ name: 'de-ch', value: 'de', dimension_value: '' },
+		{ name: 'da', value: 'default', dimension_value: '' },
+		{ name: 'en-ca', value: 'default', dimension_value: '' },
+		{ name: 'en-hk', value: 'default', dimension_value: '' },
+		{ name: 'en-us', value: 'default', dimension_value: '' },
+		{ name: 'es', value: 'default', dimension_value: '' },
+		{ name: 'es-ar', value: 'es-mx', dimension_value: '' },
+		{ name: 'es-cl', value: 'es-mx', dimension_value: '' },
+		{ name: 'es-co', value: 'es-mx', dimension_value: '' },
+		{ name: 'es-ec', value: 'es-mx', dimension_value: '' },
+		{ name: 'es-mx', value: 'es', dimension_value: '' },
+		{ name: 'es-ve', value: 'es-mx', dimension_value: '' },
+		{ name: 'fi', value: 'default', dimension_value: '' },
+		{ name: 'fr', value: 'default', dimension_value: '' },
+		{ name: 'fr-be', value: 'fr', dimension_value: '' },
+		{ name: 'fr-ch', value: 'fr', dimension_value: '' },
+		{ name: 'hu', value: 'default', dimension_value: '' },
+		{ name: 'id', value: 'default', dimension_value: '' },
+		{ name: 'it', value: 'default', dimension_value: '' },
+		{ name: 'it-ch', value: 'it', dimension_value: '' },
+		{ name: 'ja', value: 'default', dimension_value: '' },
+		{ name: 'kr', value: 'default', dimension_value: '' }
+	]
+};

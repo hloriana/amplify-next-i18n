@@ -1,0 +1,139 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 153 419" width="32" height="32">
+	<defs>
+		<style>.cls-39,.cls-54,.cls-9{}.cls-26,.cls-9{font-family:EFCircular-Medium,EF Circular}.cls-4{letter-spacing:-.01em}.cls-9{font-size:8px}.cls-15{letter-spacing:.01em}.cls-16{letter-spacing:.02em}.cls-17,.cls-18{letter-spacing:.01em}.cls-19,.cls-29{fill:none;stroke:red}.cls-19{stroke-miterlimit:10;stroke-width:.1px}.cls-20{letter-spacing:.01em}.cls-21{letter-spacing:0}.cls-23,.cls-25{letter-spacing:.02em}.cls-26{font-size:2.28px;fill:red}.cls-27{letter-spacing:.02em}.cls-28{letter-spacing:.01em}.cls-29{stroke-linecap:round}.cls-29,.cls-39{stroke-linejoin:round;stroke-width:2px}.cls-33{letter-spacing:.01em}.cls-38{letter-spacing:.02em}.cls-39{stroke:#191919}.cls-40{font-size:7px;fill:#fff;font-family:EFCircular-Black,EF Circular}.cls-47{letter-spacing:.02em}.cls-54{opacity:.2}</style>
+	</defs>
+	<text transform="translate(24 22.16)" font-family="EFCircular-Medium,EF Circular" font-size="12">
+		<tspan letter-spacing="-.01em">P</tspan>
+		<tspan x="7.18" y="0" letter-spacing="-.01em">r</tspan>
+		<tspan class="cls-4" x="11.63" y="0">i</tspan>
+		<tspan x="14.68" y="0" letter-spacing="0">n</tspan>
+		<tspan x="21.51" y="0" letter-spacing="0">c</tspan>
+		<tspan class="cls-4" x="28.05" y="0">i</tspan>
+		<tspan x="31.1" y="0">p</tspan>
+		<tspan x="38.37" y="0" letter-spacing="0">l</tspan>
+		<tspan x="41.47" y="0" letter-spacing="0">e</tspan>
+		<tspan x="48.14" y="0">s</tspan>
+	</text>
+	<text class="cls-9" transform="translate(26 47.16)">
+		<tspan letter-spacing="0">F</tspan>
+		<tspan x="4.59" y="0" letter-spacing=".02em">o</tspan>
+		<tspan x="9.41" y="0" letter-spacing=".01em">l</tspan>
+		<tspan x="11.59" y="0" letter-spacing=".02em">l</tspan>
+		<tspan x="13.79" y="0" letter-spacing="0">o</tspan>
+		<tspan x="18.5" y="0">w </tspan>
+		<tspan class="cls-15" x="27.04" y="0">t</tspan>
+		<tspan class="cls-16" x="30.07" y="0">h</tspan>
+		<tspan x="34.78" y="0">e </tspan>
+		<tspan class="cls-17" x="41.17" y="0">g</tspan>
+		<tspan class="cls-18" x="46.03" y="0">ri</tspan>
+		<tspan x="51.31" y="0">d</tspan>
+	</text>
+	<path class="cls-19" d="M27 54h32v32H27z"/>
+	<path class="cls-19" d="M29 56h28v28H29z"/>
+	<path class="cls-19" d="M31 54h24v32H31z"/>
+	<path class="cls-19" transform="rotate(90 43 70)" d="M31 54h24v32H31z"/>
+	<circle class="cls-19" cx="43" cy="70" r="16"/>
+	<text class="cls-9" transform="translate(27 108.16)">
+		<tspan class="cls-20">3</tspan>
+		<tspan class="cls-21" x="5.04" y="0">p</tspan>
+		<tspan x="9.88" y="0">x </tspan>
+		<tspan x="15.99" y="0" letter-spacing=".02em">s</tspan>
+		<tspan class="cls-15" x="19.9" y="0">t</tspan>
+		<tspan class="cls-23" x="22.94" y="0">ro</tspan>
+		<tspan x="30.9" y="0" letter-spacing="-.01em">k</tspan>
+		<tspan class="cls-25" x="35.21" y="0">e</tspan>
+		<tspan x="39.8" y="0">s</tspan>
+	</text>
+	<text class="cls-26" transform="translate(28 116.95)">
+		<tspan class="cls-27">3</tspan>
+		<tspan class="cls-28" x="1.46" y="0">p</tspan>
+		<tspan x="2.86" y="0">x</tspan>
+	</text>
+	<path class="cls-29" transform="rotate(-90 48 116.5)" d="M47.5 105.5h1v22h-1z"/>
+	<path class="cls-19" d="M34 115v3m.5-3h-1m1 3h-1"/>
+	<text class="cls-26" transform="translate(28 155.95)">
+		<tspan class="cls-27">3</tspan>
+		<tspan class="cls-28" x="1.46" y="0">p</tspan>
+		<tspan x="2.86" y="0">x</tspan>
+	</text>
+	<path class="cls-29" transform="rotate(-90 48 152.5)" d="M47.5 141.5h1v22h-1z"/>
+	<path class="cls-29" transform="rotate(-90 48 158.5)" d="M47.5 147.5h1v22h-1z"/>
+	<path class="cls-29" transform="rotate(-90 37 188.5)" d="M36.5 182.5h1v12h-1z"/>
+	<path class="cls-29" d="M31 188h1v12h-1z"/>
+	<path class="cls-29" transform="rotate(-90 37 236.5)" d="M36.5 230.5h1v12h-1z"/>
+	<path class="cls-29" d="M31 236h1v12h-1z"/>
+	<path class="cls-19" d="M34 154v3m.5-3h-1m1 3h-1"/>
+	<text class="cls-9" transform="translate(28 142.16)">
+		<tspan class="cls-20">3</tspan>
+		<tspan class="cls-21" x="5.04" y="0">p</tspan>
+		<tspan x="9.88" y="0">x </tspan>
+		<tspan x="15.99" y="0" letter-spacing=".01em">di</tspan>
+		<tspan x="23.08" y="0" letter-spacing=".02em">s</tspan>
+		<tspan x="26.99" y="0" letter-spacing=".02em">t</tspan>
+		<tspan class="cls-17" x="30.05" y="0">a</tspan>
+		<tspan class="cls-33" x="34.4" y="0">n</tspan>
+		<tspan class="cls-23" x="39.1" y="0">c</tspan>
+		<tspan x="43.61" y="0">e</tspan>
+	</text>
+	<text class="cls-9" transform="translate(29 180.16)">
+		<tspan letter-spacing=".02em">1</tspan>
+		<tspan class="cls-21" x="3.22" y="0">p</tspan>
+		<tspan x="8.06" y="0">x </tspan>
+		<tspan class="cls-23" x="14.17" y="0">r</tspan>
+		<tspan class="cls-33" x="17.32" y="0">o</tspan>
+		<tspan x="22.13" y="0" letter-spacing=".01em">u</tspan>
+		<tspan class="cls-16" x="26.81" y="0">n</tspan>
+		<tspan x="31.51" y="0" letter-spacing=".01em">d</tspan>
+		<tspan x="36.44" y="0" letter-spacing=".02em">e</tspan>
+		<tspan x="41.04" y="0">d </tspan>
+		<tspan class="cls-23" x="47.79" y="0">co</tspan>
+		<tspan class="cls-18" x="57.13" y="0">r</tspan>
+		<tspan class="cls-16" x="60.24" y="0">ne</tspan>
+		<tspan class="cls-38" x="69.53" y="0">r</tspan>
+		<tspan x="72.72" y="0">s</tspan>
+	</text>
+	<path class="cls-39" d="M13 40h8v8h-8z"/>
+	<text class="cls-40" transform="translate(15.59 46.48)">1</text>
+	<path class="cls-39" d="M13 101h8v8h-8z"/>
+	<text class="cls-40" transform="translate(14.87 107.48)">2</text>
+	<path class="cls-39" d="M13 174h8v8h-8z"/>
+	<text class="cls-40" transform="translate(14.77 180.48)">4</text>
+	<path class="cls-39" d="M13 271h8v8h-8z"/>
+	<text class="cls-40" transform="translate(14.82 277.48)">6</text>
+	<path class="cls-39" d="M13 136h8v8h-8z"/>
+	<text class="cls-40" transform="translate(14.85 142.48)">3</text>
+	<path class="cls-39" d="M13 222h8v8h-8z"/>
+	<text class="cls-40" transform="translate(14.92 228.48)">5</text>
+	<text class="cls-9" transform="translate(29 229.16)">
+		<tspan letter-spacing=".02em">S</tspan>
+		<tspan class="cls-25" x="4.96" y="0">h</tspan>
+		<tspan class="cls-17" x="9.67" y="0">a</tspan>
+		<tspan x="14.02" y="0" letter-spacing=".01em">r</tspan>
+		<tspan x="17.13" y="0" letter-spacing="0">p </tspan>
+		<tspan x="23.91" y="0" letter-spacing=".01em">i</tspan>
+		<tspan x="26.08" y="0" letter-spacing=".01em">n</tspan>
+		<tspan class="cls-16" x="30.78" y="0">ne</tspan>
+		<tspan x="40.07" y="0">r </tspan>
+		<tspan class="cls-23" x="45.02" y="0">co</tspan>
+		<tspan class="cls-18" x="54.36" y="0">r</tspan>
+		<tspan class="cls-16" x="57.47" y="0">ne</tspan>
+		<tspan class="cls-38" x="66.76" y="0">r</tspan>
+		<tspan x="69.95" y="0">s</tspan>
+	</text>
+	<text class="cls-9" transform="translate(29 278.16)">
+		<tspan letter-spacing=".02em">N</tspan>
+		<tspan x="6.3" y="0">o </tspan>
+		<tspan class="cls-47" x="12.94" y="0">p</tspan>
+		<tspan x="17.93" y="0" letter-spacing=".02em">e</tspan>
+		<tspan class="cls-38" x="22.52" y="0">r</tspan>
+		<tspan x="25.71" y="0" letter-spacing=".02em">s</tspan>
+		<tspan class="cls-47" x="29.57" y="0">pe</tspan>
+		<tspan x="39.17" y="0" letter-spacing=".03em">c</tspan>
+		<tspan x="43.77" y="0" letter-spacing=".01em">t</tspan>
+		<tspan x="46.77" y="0" letter-spacing=".01em">i</tspan>
+		<tspan x="48.95" y="0" letter-spacing="0">v</tspan>
+		<tspan x="53.25" y="0">e</tspan>
+	</text>
+	<circle class="cls-54" cx="30.5" cy="187.5" r="2.5"/>
+	<circle class="cls-54" cx="33.5" cy="238.5" r="2.5"/>
+</svg>

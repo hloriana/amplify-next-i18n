@@ -1,0 +1,45 @@
+component: nextjs
+
+org: academy
+app: academy-websites-${env:NODE_ENV}
+name: marketing-web-client-${env:NODE_ENV}
+
+inputs:
+  region: ap-shanghai
+  functionName: ${name}
+  src:
+    src: ./
+    exclude:
+      - 'builds/**'
+      - 'out/**'
+      - '.gitlab/**'
+      - '.vscode/**'
+      - 'node_modules/**'
+      - '.git/**'
+      - '.npmrc'
+  layers:
+    - name: ${output:${stage}:${app}:${name}-layer.name}
+      version: ${output:${stage}:${app}:${name}-layer.version}
+  runtime: Nodejs10.15
+  functionConf:
+    timeout: 900
+    memorySize: 1024
+    environment:
+      variables:
+        GTM_ID_360: ${env:GTM_ID_360}
+        SB_SPACE_ID: ${env:SB_SPACE_ID}
+        SB_PUBLIC_TOKEN: ${env:SB_PUBLIC_TOKEN}
+        SB_PREVIEW_TOKEN: ${env:SB_PREVIEW_TOKEN}
+        LIVECHAT_ID: ${env.LIVECHAT_ID}
+        AZURE_LOCATION: ${env.AZURE_LOCATION}
+        INTEGRATION_API: ${env.INTEGRATION_API}
+        EFSET_URL: ${env.EFSET_URL}
+  apigatewayConf:
+    serviceTimeout: 30
+    name: ${name}
+    description: API GW service for website web-zh
+    protocols:
+      - http
+      - https
+    serviceName: serverless
+    environment: release

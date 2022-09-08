@@ -1,0 +1,331 @@
+{
+	"": {
+		"name": "(Master) English - World Wide",
+		"code": "",
+		"fallback": null,
+		"efcode": "we",
+		"blog_url": null
+	},
+	"ar": {
+		"name": "(Master) Arabic - World Wide",
+		"code": "ar",
+		"fallback": null,
+		"efcode": "wm",
+		"blog_url": null
+	},
+	"de-at": {
+		"name": "German - Austria",
+		"code": "de-at",
+		"fallback": "de",
+		"efcode": "at",
+		"blog_url": null
+	},
+	"de-ch": {
+		"name": "German - Switzerland",
+		"code": "de-ch",
+		"fallback": "de",
+		"efcode": "cs",
+		"blog_url": null
+	},
+	"de-de": {
+		"name": "German - Germany",
+		"code": "de-de",
+		"fallback": "de",
+		"efcode": "de",
+		"blog_url": "https://www.ef.de/blog/"
+	},
+	"de": {
+		"name": "(Master) German - World Wide",
+		"code": "de",
+		"fallback": null,
+		"efcode": "de",
+		"blog_url": "https://www.ef.de/blog/"
+	},
+	"da-dk": {
+		"name": "Danish - Denmark",
+		"code": "da-dk",
+		"fallback": null,
+		"efcode": "dk",
+		"blog_url": null
+	},
+	"en": {
+		"name": "English",
+		"code": "en",
+		"fallback": null,
+		"efcode": "we",
+		"blog_url": null
+	},
+	"en-ca": {
+		"name": "English - Canada",
+		"code": "en-ca",
+		"fallback": null,
+		"efcode": "ca",
+		"blog_url": null
+	},
+	"en-hk": {
+		"name": "English - Hong Kong",
+		"code": "en-hk",
+		"fallback": null,
+		"efcode": "we",
+		"blog_url": null
+	},
+	"en-us": {
+		"name": "English - United States",
+		"code": "en-us",
+		"fallback": null,
+		"efcode": "us",
+		"blog_url": null
+	},
+	"es-ar": {
+		"name": "Spanish - Argentina",
+		"code": "es-ar",
+		"fallback": "es",
+		"efcode": "ar",
+		"blog_url": null
+	},
+	"es-cl": {
+		"name": "Spanish - Chile",
+		"code": "es-cl",
+		"fallback": "es",
+		"efcode": "cl",
+		"blog_url": null
+	},
+	"es-co": {
+		"name": "Spanish - Colombia",
+		"code": "es-co",
+		"fallback": "es",
+		"efcode": "co",
+		"blog_url": null
+	},
+	"es-ec": {
+		"name": "Spanish - Ecuador",
+		"code": "es-ec",
+		"fallback": "es",
+		"efcode": "ec",
+		"blog_url": null
+	},
+	"es-es": {
+		"name": "Spanish - Spain",
+		"code": "es-es",
+		"fallback": null,
+		"efcode": "es",
+		"blog_url": "https://www.ef.com.es/blog/"
+	},
+	"es-mx": {
+		"name": "Spanish - Mexico",
+		"code": "es-mx",
+		"fallback": "es",
+		"efcode": "mx",
+		"blog_url": "https://www.ef.com.mx/blog/"
+	},
+	"es-ve": {
+		"name": "Spanish - Venezuela",
+		"code": "es-ve",
+		"fallback": "es",
+		"efcode": "ve",
+		"blog_url": null
+	},
+	"es": {
+		"name": "(Master) Spanish - World Wide",
+		"code": "es",
+		"fallback": "es-es",
+		"efcode": "wl",
+		"blog_url": null
+	},
+	"fi-fi": {
+		"name": "Finnish - Finland",
+		"code": "fi-fi",
+		"fallback": null,
+		"efcode": "fi",
+		"blog_url": null
+	},
+	"fr-be": {
+		"name": "French - Belgium",
+		"code": "fr-be",
+		"fallback": "fr",
+		"efcode": "be",
+		"blog_url": null
+	},
+	"fr-ch": {
+		"name": "French - Switzerland",
+		"code": "fr-ch",
+		"fallback": "fr",
+		"efcode": "ch",
+		"blog_url": null
+	},
+	"fr-fr": {
+		"name": "French - France",
+		"code": "fr-fr",
+		"fallback": "fr",
+		"efcode": "fr",
+		"blog_url": null
+	},
+	"fr": {
+		"name": "(Master) French - World Wide",
+		"code": "fr",
+		"fallback": null,
+		"efcode": "wc",
+		"blog_url": null
+	},
+	"hu-hu": {
+		"name": "Hungarian - Hungary",
+		"code": "hu-hu",
+		"fallback": null,
+		"efcode": "hu",
+		"blog_url": null
+	},
+	"id-id": {
+		"name": "Indonesian - Indonesia",
+		"code": "id-id",
+		"fallback": "en-hk",
+		"efcode": "id",
+		"blog_url": null
+	},
+	"it-ch": {
+		"name": "Italian - Switzerland",
+		"code": "it-ch",
+		"fallback": "it-it",
+		"efcode": "ct",
+		"blog_url": null
+	},
+	"it-it": {
+		"name": "Italian - Italy",
+		"code": "it-it",
+		"fallback": null,
+		"efcode": "it",
+		"blog_url": "https://www.ef-italia.it/blog/"
+	},
+	"ja-jp": {
+		"name": "Japanese - Japan",
+		"code": "ja-jp",
+		"fallback": "en-hk",
+		"efcode": "jp",
+		"blog_url": "https://www.efjapan.co.jp/blog/"
+	},
+	"ko-kr": {
+		"name": "Korean - Korea",
+		"code": "ko-kr",
+		"fallback": "en-hk",
+		"efcode": "kr",
+		"blog_url": null
+	},
+	"nl-be": {
+		"name": "Dutch - Belgium",
+		"code": "nl-be",
+		"fallback": "nl-nl",
+		"efcode": "bx",
+		"blog_url": null
+	},
+	"nl-nl": {
+		"name": "Dutch - Netherlands",
+		"code": "nl-nl",
+		"fallback": null,
+		"efcode": "nl",
+		"blog_url": null
+	},
+	"no-no": {
+		"name": "Norwegian - Norway",
+		"code": "no-no",
+		"fallback": null,
+		"efcode": "no",
+		"blog_url": "https://www.ef.no/blog/"
+	},
+	"pl-pl": {
+		"name": "Polish - Poland",
+		"code": "pl-pl",
+		"fallback": null,
+		"efcode": "pl",
+		"blog_url": null
+	},
+	"pt-br": {
+		"name": "Portugese - Brazil",
+		"code": "pt-br",
+		"fallback": "pt-pt",
+		"efcode": "br",
+		"blog_url": null
+	},
+	"pt-pt": {
+		"name": "Portugese - Portugal",
+		"code": "pt-pt",
+		"fallback": null,
+		"efcode": "pt",
+		"blog_url": null
+	},
+	"ru-kz": {
+		"name": "Russian - Kazakhstan",
+		"code": "ru-kz",
+		"fallback": "ru",
+		"efcode": "kz",
+		"blog_url": "https://www.ef.ru/blog/"
+	},
+	"ru-ua": {
+		"name": "Russian - Ukraine",
+		"code": "ru-ua",
+		"fallback": "ru",
+		"efcode": "wr",
+		"blog_url": "https://www.ef.ru/blog/"
+	},
+	"ru-ru": {
+		"name": "Russian - Russia",
+		"code": "ru-ru",
+		"fallback": "ru",
+		"efcode": "ru",
+		"blog_url": "https://www.ef.ru/blog/"
+	},
+	"ru": {
+		"name": "(Master) Russian - World Wide",
+		"code": "ru",
+		"fallback": null,
+		"efcode": "wr",
+		"blog_url": null
+	},
+	"sv-se": {
+		"name": "Swedish - Sweden",
+		"code": "sv-se",
+		"fallback": null,
+		"efcode": "se",
+		"blog_url": null
+	},
+	"th-th": {
+		"name": "Thai - Thailand",
+		"code": "th-th",
+		"fallback": "en-hk",
+		"efcode": "th",
+		"blog_url": null
+	},
+	"tr-tr": {
+		"name": "Turkish - Turkey",
+		"code": "tr-tr",
+		"fallback": null,
+		"efcode": "tr",
+		"blog_url": null
+	},
+	"vi-vn": {
+		"name": "Vietnamese - Vietnam",
+		"code": "vi-vn",
+		"fallback": "en-hk",
+		"efcode": "vn",
+		"blog_url": "https://www.ef.com.vn/blog/"
+	},
+	"zh-hk": {
+		"name": "Chinese - Hong Kong",
+		"code": "zh-hk",
+		"fallback": "en-hk",
+		"efcode": "hk",
+		"blog_url": null
+	},
+	"zh-tw": {
+		"name": "Chinese - Taiwan",
+		"code": "zh-tw",
+		"fallback": "zh-hk",
+		"efcode": "tw",
+		"blog_url": "https://www.ef.com.tw/blog/"
+	},
+	"zh-cn": {
+		"name": "Chinese - China",
+		"code": "zh-cn",
+		"fallback": "en-hk",
+		"efcode": "cn",
+		"blog_url": null
+	}
+}

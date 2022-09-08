@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 141.73 141.73">
+	<defs>
+		<style>.cls-1{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;}</style>
+	</defs>
+	<title>Academicons</title>
+	<path class="cls-1" d="M62.39,12.32H79.32a3.5,3.5,0,0,1,3.5,3.5v79a0,0,0,0,1,0,0H58.89a0,0,0,0,1,0,0v-79A3.5,3.5,0,0,1,62.39,12.32Z"/>
+	<polyline class="cls-1" points="59.05 94.89 70.85 129.7 82.86 94.89"/>
+	<line class="cls-1" x1="58.89" y1="28.74" x2="82.82" y2="28.74"/>
+	<line class="cls-1" x1="94.08" y1="129.7" x2="47.63" y2="129.7"/>
+</svg>

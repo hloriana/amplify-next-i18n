@@ -1,0 +1,38 @@
+{
+	"compilerOptions": {
+		"allowJs": true,
+		"alwaysStrict": true,
+		"baseUrl": ".",
+		"esModuleInterop": true,
+		"forceConsistentCasingInFileNames": true,
+		"isolatedModules": true,
+		"jsx": "preserve",
+		"lib": ["dom", "es2017"],
+		"module": "esnext",
+		"allowSyntheticDefaultImports": true,
+		"moduleResolution": "node",
+		"noEmit": true,
+		"noFallthroughCasesInSwitch": true,
+		"paths": {
+			"~/*": ["./*"]
+		},
+		"resolveJsonModule": true,
+		"skipLibCheck": true,
+		"sourceMap": true,
+		"strict": true,
+		"target": "esnext"
+	},
+	"exclude": ["node_modules", "temp"],
+	"include": [
+		"next-env.d.ts",
+		"types.d.ts",
+		"shared/**/*",
+		"marketing-website/**/*",
+		"components/**/*",
+		"contexts/**/*",
+		"layouts/**/*",
+		"hooks/**/*",
+		"pages/**/*",
+		"utils/**/*"
+	]
+}

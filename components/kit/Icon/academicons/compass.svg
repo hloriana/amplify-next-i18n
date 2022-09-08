@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 141.73 141.73">
+	<defs>
+		<style>.cls-1,.cls-2{fill:none;stroke:currentColor;}.cls-1{stroke-linejoin:round;}.cls-2{stroke-miterlimit:10;}</style>
+	</defs>
+	<title>Academicons</title>
+	<polygon class="cls-1" points="64.24 77.29 20.63 21.04 77.37 64.33 64.24 77.29"/>
+	<polygon class="cls-1" points="77.37 64.33 120.98 120.58 64.24 77.29 77.37 64.33"/>
+	<line class="cls-2" x1="0.01" y1="70.84" x2="12" y2="70.84"/>
+	<line class="cls-2" x1="129.79" y1="70.84" x2="141.68" y2="70.84"/>
+	<line class="cls-2" x1="70.9" y1="-0.04" x2="70.9" y2="11.96"/>
+	<line class="cls-2" x1="70.84" y1="129.81" x2="70.84" y2="141.76"/>
+</svg>
